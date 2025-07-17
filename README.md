@@ -1,5 +1,5 @@
 # 📊 Superstore Profitability & Return Analysis (Tableau)
-
+ 
 ## 🚀 Project Overview
 In this business simulation, I acted as a Data Analyst hired to save a struggling retail company—**Superstore**—from bankruptcy. Using Tableau and real-world datasets, I explored key metrics like profitability, advertising efficiency, and return rates to recommend data-driven strategies that could help turn the business around.
 
